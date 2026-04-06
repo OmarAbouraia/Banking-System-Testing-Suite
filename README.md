@@ -122,13 +122,13 @@ This project demonstrates my ability to:
 - Understanding edge cases and system limitations
 ---
 
-👥 Team Members
-1- Omar Ahmed Abou Raia
-2- Hossam Ossama Hussieny
-3- Mariam Ibrahim Assar
-4- Mariam Tarek Farouk
-5- Hassan Sherif
-6- Habiba El-Sabaa Ali
+👥 Team Members 
+- Omar Ahmed Abou Raia
+- Hossam Ossama Hussieny
+- Mariam Ibrahim Assar
+- Mariam Tarek Farouk
+- Hassan Sherif
+- Habiba El-Sabaa Ali
 
 ---
 ## 📄 Documentation
